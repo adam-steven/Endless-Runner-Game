@@ -1,0 +1,23 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\script\moveblocks.cs">
+    <Files>
+      <File FileName="Assets\script\spawnerScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\what to do.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\levelCounter.cs" Line="7" Column="7" />
+      <File FileName="Assets\script\UnlockScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\selebrationBombScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\outOfFuelShipScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\movement.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\characterSelect.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\menu.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\moveCamera.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\ship.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\moveblocks.cs" Line="56" Column="67" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
